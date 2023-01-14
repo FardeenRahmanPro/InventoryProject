@@ -1,6 +1,6 @@
 # InventoryProject
-Here is Web inventory project written in java that utilizes java swing which is connected to mySQL server.
-This is an inventory system i made for my friend with the help of a few java swing tutorials.
+Web Inventory Software written in Java via the Spring Framework, with a connection a SQL server
+Inventory System created by Ahmad Hamadi and Fardeen Rahman for a small business owner who primarily utilizes an e-commerce platform
 Admin username = 'admin'
 Admin password = '123'
-Functions are the  same as any other inventory project, you can add items, delete items, and sell items. 
+Functions include: add items, delete items, sell items, and more 
