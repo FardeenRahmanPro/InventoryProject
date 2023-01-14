@@ -1,4 +1,4 @@
-# InventoryProject
+# Stock Control
 
 Web Inventory Software written in Java via the Spring Framework, with a connection a SQL server
 
